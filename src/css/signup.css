@@ -1,0 +1,17 @@
+.wrapper{
+    background-color: aquamarine;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.signup-wrapper {
+    align-items: center;
+    justify-content: center;
+    border: 1px solid brown;
+    width: 500px;
+    height: 300px;
+    margin:0 auto;
+    background-color: pink;
+    text-align: center;
+}
